@@ -1,0 +1,16 @@
+{
+    "name": "Thouryathrikam",
+    "short_name": "Thouryathrikam",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "orientation": "portrait",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/arts_logo.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      }
+    ]
+  }
